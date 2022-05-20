@@ -4,3 +4,4 @@ mysql/data/*
 redis/data/*
 zookeeper/data/*
 kafka/data/*
+!*/*/.gitkeep
