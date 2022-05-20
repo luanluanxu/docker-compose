@@ -1,0 +1,10 @@
+.vscode
+.idea
+!mysql/data
+!redis/data
+!zookeeper/data
+!kafka/data
+mysql/data/*
+redis/data/*
+zookeeper/data/*
+kafka/data/*
