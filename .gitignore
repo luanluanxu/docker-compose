@@ -2,6 +2,7 @@
 .idea
 mysql/data/*
 redis/data/*
-zookeeper/data/*
-kafka/data/*
+zookeeper/*
+kafka/*
 !*/*/.gitkeep
+minio/
